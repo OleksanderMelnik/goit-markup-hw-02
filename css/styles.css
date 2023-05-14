@@ -165,6 +165,10 @@ color: var(--background-hover-color);
     background-color: var(--second-background-color);
 }
 
+.team-item {
+    background-color: #FFFFFF;
+}
+
 .team-list {
     background-color: #FFFFFF;
 }
