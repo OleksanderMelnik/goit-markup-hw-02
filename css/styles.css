@@ -31,6 +31,7 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .text {
@@ -151,6 +152,10 @@ color: var(--background-hover-color);
 }
 
 /**----------FEATURES-------------------*/
+
+.peculiarities {
+    color: var(--main-color);
+}
 
 /**----------WHAT ARE WE GOING-------------------*/
 
